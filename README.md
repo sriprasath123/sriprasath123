@@ -15,22 +15,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
 </a>
 
-- :house: I'm currently living at HCM City, Vietnam 🇻🇳.
+- :house: I'm currently living at Chennai City.
 - :computer: I'm currently working as a Software Engineer.
-- :dart: I'm currently working on my pet projects.
-- :video_game: I love Dota 2.
+- :dart: I'm currently working on my E-com projects.
+- :video_game: I love call of Duty.
 - :coffee: I'm coffeer.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```ruby
+```Python
 CONST DEREK = {
   pronouns: "He" | "him",
-  backend: ["Ruby", "Nodejs", "Go"],
-  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
-  database: ["Postgresql", "mySQL", "Redis"],
-  "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  backend: ["PHP", "Nodejs", "Python"],
+  frontend: ["HTML", "Javascript", "Angular", "CSS"],
+  database: [ "mySQL"],
   challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
 }
 ```
