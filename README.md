@@ -11,9 +11,7 @@
   </a>
 </p>
 
-<a href="#dereknguyen269-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
-</a>
+
 
 - :house: I'm currently living at Chennai City.
 - :computer: I'm currently working as a Software Engineer.
