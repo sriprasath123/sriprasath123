@@ -5,12 +5,12 @@ I AM SRI PRASATH FULLSTACK DEVELOPER </p>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sathish0205&label=Profile%20views&color=0e75b6&style=flat" alt="sri prasath" />
+  <img src="" alt="sri prasath" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sathish0205" alt="sathish0205" />
+    <img src="" alt="sri prasath" />
   </a>
 </p>
 
