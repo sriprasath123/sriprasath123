@@ -5,12 +5,12 @@ I AM SRI PRASATH FULLSTACK DEVELOPER </p>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left">
-  <img src="" alt="sri prasath" />
+  <img src="blob:https://web.whatsapp.com/6f11f94e-dc77-4011-99ea-d906b5443895" alt="sri prasath" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="" alt="sri prasath" />
+    <img src="blob:https://web.whatsapp.com/6f11f94e-dc77-4011-99ea-d906b5443895" alt="sri prasath" />
   </a>
 </p>
 
