@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Angular+%7C+PHP+%7C+MySQL+Expert+%F0%9F%94%A5;Building+Web+Apps+from+India+%F0%9F%87%AE%F0%9F%87%B3;Open+to+Freelance+%26+Opportunities+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;React.js+%7C+PHP+%7C+MySQL+Expert+%F0%9F%94%A5;Building+Web+Apps+from+India+%F0%9F%87%AE%F0%9F%87%B3;Open+to+Freelance+%26+Opportunities+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@ const sriPrasath = {
   name      : "Sri Prasath",
   role      : "Fullstack Developer",
   location  : "India 🇮🇳",
-  focus     : ["Angular", "PHP", "MySQL", "Node.js"],
+  focus     : ["React.js", "PHP", "MySQL", "Node.js"],
   passion   : "Building clean, responsive & scalable web apps",
   status    : "🟢 Open to Work",
 };
@@ -31,7 +31,7 @@ const sriPrasath = {
 
 - 🔭 &nbsp;Currently working on **fullstack web projects**
 - 🌱 &nbsp;Always learning new frameworks and best practices
-- 💬 &nbsp;Ask me about **Angular, PHP, MySQL, JavaScript**
+- 💬 &nbsp;Ask me about **React.js, PHP, MySQL, JavaScript**
 - 🤝 &nbsp;Open to **freelance projects & collaborations**
 - ⚡ &nbsp;Fun fact: I debug with console.log and I'm not ashamed 😄
 
@@ -44,7 +44,7 @@ const sriPrasath = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
